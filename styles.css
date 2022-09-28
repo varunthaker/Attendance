@@ -1,0 +1,13 @@
+.list{
+  list-style: none;
+  line-height: 2px;
+  margin-bottom: 2px;
+  list-style-position: inside;
+
+
+}
+
+li{
+  margin: 10px;
+  padding-right: 10px;
+}
